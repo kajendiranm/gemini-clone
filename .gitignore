@@ -5,6 +5,7 @@ __pycache__/
 *.pyd
 venv/
 backend/gemini_backend/.env
+backend/chat_app/tough-electron-461818-j7-009fc04ca91d.json
 
 # Django
 db.sqlite3
